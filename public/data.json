@@ -1,0 +1,105 @@
+{
+  "video":"",
+  "main": {
+    "name":"Clara Meniz",
+    "occupation":"Ingeniero de Telecomunicaciones",
+    "description":" con más de diez años de experiencia. He trabajado en proyectos de ciberseguridad y plataformas Big Data para empresas líderes del sector tecnológico",
+    "image":"imageprofile.jpg",
+    "bioheader":"Ingeniero Full-Stack especializado en React y Ruby on Rails.",
+    "biointro":"Soy un Ingeniero de Telecomunicaciones con más de diez años de experiencia, que ha trabajado en multitud de proyectos para empresas líderes del sector tecnológico. He participado en proyectos de ciberseguridad y plataformas Big Data. Y, de forma puntual, en el proyecto de migración de los radioenlaces de la red móvil de Orange a los nuevos equipos Huawei.",
+    "biodesc":" En constante proceso de formación, he complementado mis estudios con masters y cursos relacionados con el desarrollo software, la electrónica, el análisis de datos, los vehículos híbridos y eléctricos y las energías renovables (térmica, eólica, biomasa e hidráulica) en su mayor parte.",
+    "bioend":"Defensora del desarrollo de productos impulsados por el valor, he formado parte de equipos Ágiles con metodologías SCRUM e intento estar siempre actualizada con las últimas tecnologías de desarrollo del mercado.",
+    "address":{
+      "city":"onubense"
+    },
+    "resumedownload":"https://drive.google.com/file/d/1pfe9AEB548awWIz-qUIzYb8lBpcn-0Ae/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/clara-meniz-s%C3%A1nchez-455b4852/",
+        "className":"fa fa-linkedin",
+        "prefix":"fab",
+        "icon":"linkedin-in"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/clarameniz",
+        "className":"fa fa-github",
+        "prefix":"fab",
+        "icon":"github"
+      },
+      {
+        "name":"email",
+        "url":"mailto:clarameniz@gmail.com",
+        "className":"fa fa-envelope-o",
+        "prefix":"far",
+        "icon":"envelope"
+      }
+    ]
+  },
+  "portfolio":{
+    "projectsHeader": "Clientes con los que he trabajado",
+    "projects": [
+      {
+        "title":"Vodafone",
+        "category":"",
+        "image":"company1.png",
+        "url":"https://www.linkedin.com/company/vodafone/"
+      },
+      {
+        "title":"Telefónica",
+        "category":"",
+        "image":"company2.png",
+        "url":"https://www.linkedin.com/company/telef%C3%B3nica/"
+      },
+      {
+        "title":"Produban",
+        "category":"",
+        "image":"company3.png",
+        "url":"https://www.linkedin.com/company/produban/?originalSubdomain=ar"
+      },
+      {
+        "title":"Cisco",
+        "category":"",
+        "image":"company4.png",
+        "url":"https://www.linkedin.com/company/cisco/"
+      },
+      {
+        "title":"Endesa",
+        "category":"",
+        "image":"company5.png",
+        "url":"https://www.linkedin.com/company/endesa/"
+      },
+      {
+        "title":"Huawei",
+        "category":"",
+        "image":"company6.png",
+        "url":"https://www.linkedin.com/company/huawei/"
+      },
+      {
+        "title":"Junta de Andalucía",
+        "category":"",
+        "image":"company7.png",
+        "url":"https://www.linkedin.com/company/junta-de-andalucia/"
+      },
+      {
+        "title":"Orange",
+        "category":"",
+        "image":"company8.png",
+        "url":"https://www.linkedin.com/company/orange/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"",
+        "user":"Anónimo 1"
+      },
+      {
+        "text":"",
+        "user":"Anónimo 2"
+      }
+    ]
+  }
+}
